@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "8aba1eea-df6d-43b9-9f23-4e8c234a5abf": {
+      "ProjectGuid": "8aba1eea-df6d-43b9-9f23-4e8c234a5abf",
+      "DisplayName": "code-challenge",
+      "ColorIndex": 0
+    },
+    "0efcf139-7a42-4e38-b638-856076b0108a": {
+      "ProjectGuid": "0efcf139-7a42-4e38-b638-856076b0108a",
+      "DisplayName": "code-challenge.Tests.Integration",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

@@ -1,0 +1,3 @@
+is_global = true
+build_property.RootNamespace = code_challenge.Tests.Integration
+build_property.ProjectDir = D:\GitHub\CodingExercise_DotNet_C-Sharp\code-challenge.Tests\
